@@ -4,26 +4,22 @@ Welcome to the Pet Adoption App! This application allows users to browse and ado
 
 # Features
 1. Browse Pets: View a list of pets available for adoption with key details.
-Pet Details: Get comprehensive information about each pet.
-Responsive Design: Fully responsive for both mobile and desktop users.
-Filtering and Sorting: Filter pets by criteria and sort by different attributes.
-Error Handling: Robust error handling and feedback mechanisms.
+2. Pet Details: Get comprehensive information about each pet.
+3. Responsive Design: Fully responsive for both mobile and desktop users.
+4. Filtering and Sorting: Filter pets by criteria and sort by different attributes.
+5. Error Handling: Robust error handling and feedback mechanisms.
 # Technologies Used
-React: For building the user interface.
-React Query: For data fetching, caching, and synchronization.
-React Router: For client-side routing and navigation.
-CSS: For styling the application.
+1. React: For building the user interface.
+2. React Query: For data fetching, caching, and synchronization.
+3. React Router: For client-side routing and navigation.
+4. CSS: For styling the application.
 # Installation
 To get started with the Pet Adoption App, follow these steps:
 
-Clone the repository:
+Clone the repository and install dependencies.
 
-```git clone https://github.com/yourusername/pet-adoption-app.git
-cd pet-adoption-app```
-
-Install dependencies:
-
-```npm install```
-Start the development server:
-
-```npm start```
+```
+git clone https://github.com/yourusername/pet-adoption-app.git 
+cd pet-adoption-app
+npm install
+npm start
