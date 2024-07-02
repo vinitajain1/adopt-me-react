@@ -19,7 +19,7 @@ To get started with the Pet Adoption App, follow these steps:
 Clone the repository and install dependencies.
 
 ```
-git clone https://github.com/yourusername/pet-adoption-app.git 
+git clone https://github.com/vinitajain1/adopt-me-react.git 
 cd pet-adoption-app
 npm install
 npm start
