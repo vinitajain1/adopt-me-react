@@ -1,6 +1,5 @@
 # Pet Adoption App
-Welcome to the Pet Adoption App! This application allows users to browse and adopt pets available for adoption. Built with React, React Query, and React Router, it offers a seamless and interactive experience for users looking to find their new furry friend.
-
+Welcome to the Pet Adoption App! This application allows users to browse and adopt pets available for adoption. Built with React, React Query, and React Router.
 
 # Features
 1. Browse Pets: View a list of pets available for adoption with key details.
