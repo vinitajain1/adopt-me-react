@@ -19,6 +19,6 @@ Clone the repository and install dependencies.
 
 ```
 git clone https://github.com/vinitajain1/adopt-me-react.git 
-cd pet-adoption-app
+cd adopt-me-react
 npm install
 npm start
